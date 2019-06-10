@@ -17,5 +17,3 @@ if int(age) < 95:
     
 else:
     print("You are already "+ age)
-
-!
